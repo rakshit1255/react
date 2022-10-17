@@ -1,0 +1,90 @@
+{
+  "usar": [
+    {
+      "role": "teacher",
+      "emailId": "rakshit.vadaliya@archesoftronix.com",
+      "pass": "Admin",
+      "fullName": "rakshit",
+      "TCHadd": "gotri",
+      "subject": "maths",
+      "id": 1
+    },
+    {
+      "role": "student",
+      "emailId": "std@mail.com",
+      "pass": "Admin",
+      "fullName": "student",
+      "TCHadd": "gotri",
+      "subject": "maths",
+      "STDadd": "student add",
+      "standers": "9",
+      "id": 2
+    },
+    {
+      "role": "teacher",
+      "emailId": "test@mail.com",
+      "pass": "Admin",
+      "fullName": "rk",
+      "TCHadd": "test std",
+      "subject": "science",
+      "STDadd": "student add",
+      "standers": "9",
+      "id": 3
+    },
+    {
+      "role": "student",
+      "emailId": "stdsec@mail.com",
+      "pass": "Admin",
+      "fullName": "second std",
+      "TCHadd": "test std",
+      "subject": "science",
+      "STDadd": "sec std add",
+      "standers": "10",
+      "id": 4
+    },
+    {
+      "role": "teacher",
+      "emailId": "newtech@mail.com",
+      "pass": "Admin",
+      "fullName": "new teacgh",
+      "TCHadd": "new teach",
+      "subject": "english",
+      "standers": "10",
+      "STDadd": "new std ad",
+      "dob": "2022-06-22",
+      "id": 5
+    },
+    {
+      "role": "teacher",
+      "emailId": "ss@sss.com",
+      "pass": "Admin",
+      "fullName": "ssssss",
+      "TCHadd": "tessssss",
+      "subject": "ssss",
+      "id": 6
+    }
+  ],
+  "student": [
+    {
+      "fullname": "Rakshit vadaliya",
+      "email": "rkvadaliya6@gmail.com",
+      "pass": "Admin",
+      "phone": "98794561229",
+      "address": "Indraprashath Nagar,Shree MDAV Primary School,Near Church,Kaliyabid,364002 bhavnagar,gujrat",
+      "standerd": "",
+      "dob": "2001-06-20",
+      "standers": "10",
+      "id": 1
+    },
+    {
+      "fullname": "hfgjhk",
+      "email": "jfdhfhmjg",
+      "pass": "Adminj",
+      "phone": "5332",
+      "address": "kljhjkl",
+      "standerd": "",
+      "standers": "2",
+      "id": 5
+    }
+  ]
+}

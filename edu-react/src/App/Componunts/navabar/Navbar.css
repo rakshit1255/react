@@ -1,0 +1,27 @@
+.navbar{
+    width: 100%;
+    margin: 0;
+    padding: 0;
+}
+.navbar ul li a, .navbar span{
+    font-size: 20px;
+    color: #032748;
+}
+.navbar ul li a:hover, .navbar span:hover{
+    font-size: 20px;
+    color: #01B3EB;
+}
+.navbar-text{
+    display: flex;
+    align-items: center;
+}
+.navbar-text p{
+    margin: 0;
+    margin-left: 12px;
+}
+.navbar-text i{
+    font-size: 36px;
+}
+.nav-link:focus{
+    color: #01B3EB;
+}

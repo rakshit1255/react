@@ -1,0 +1,25 @@
+.main-teacher-page{
+    display: flex;
+}
+.teacher-sidebar{
+    width: 25%;
+    background-color: #1E4163;
+    /* height: 100vh; */
+    color: white;
+    /* padding-left: 22px;
+    padding-top: 22px; */
+}
+.teacher-data{
+    width: 75%;
+    padding: 26px;
+}
+
+.std-card{
+    display: flex;
+    background-color: #e4e4e4;
+    border-radius: 10px;
+    padding: 20px;
+} 
+.std-info h5{
+    margin: 0;
+}

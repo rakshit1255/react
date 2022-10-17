@@ -1,0 +1,28 @@
+.sidebar-teach a{
+    color: #ffffff;
+    text-decoration:none;
+}
+.sidebar-teach a:hover{
+    color: #00C1F0;
+}
+.sidebar-menus{
+    padding: 26px;
+}
+.sidebar-teach .card img{
+    height: 100%;
+    width: 100%;
+}
+.sidebar-teach .card-body{
+    padding: 12px !important;
+}
+.sidebar-profile{
+    display: flex;
+    background-color: #00ACEB;
+}
+.sidebar-menus i{
+    width: 32px;
+    text-align: center;
+}
+.sidebar-menus h5{
+   margin-bottom:18px;
+}
