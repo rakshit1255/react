@@ -1,0 +1,101 @@
+.home_heading {
+    margin-bottom: 60px;
+}
+
+.inputs {
+    margin-top: 20px;
+}
+input{
+    margin-top: 8px;
+}
+.textInput{
+    padding: 6px;
+    font-size: 18px;
+    outline: 0;
+}
+.textInput:focus{
+    border: 2px solid #FA4F5C;
+}
+.todo{
+    margin-top: 26px;
+}
+.buttonHome{
+    background-color: #FA4F5C;
+    color: white;
+    border: none;
+    padding: 10px 30px;
+    font-size: 16px;
+    letter-spacing: 1.5px;
+    margin-top: 24px;
+}
+.remind{
+    margin-bottom: 12px;
+}
+.buttonHome:hover{
+    background-color: #293462;
+}
+
+/*::-webkit-datetime-edit { padding: 5px; }
+::-webkit-datetime-edit-fields-wrapper { background: lightblue; }
+::-webkit-datetime-edit-text { color: orange; padding: 0 0.3em; }
+::-webkit-datetime-edit-month-field { color: pink; }
+::-webkit-datetime-edit-day-field { color: green; }
+::-webkit-datetime-edit-year-field { color: purple; }
+::-webkit-inner-spin-button { display: none; }
+::-webkit-calendar-picker-indicator { background: orange; }*/
+
+input[type=datetime-local] {
+    height: 35px;
+    margin: 0 auto;
+    width: 100%;
+    max-width: 300px;
+    font-family: arial, sans-serif;
+    font-size: 18px;
+    text-transform: uppercase;
+    background-color: #f1edeb;
+    outline: none;
+    border: 0;
+    border-radius: 3px;
+    padding: 0 10px;
+    color: #000;
+    box-sizing: border-box;
+}
+
+input[type=datetime-local]::-webkit-datetime-edit-month-field {
+    color: #000;
+}
+
+input[type=datetime-local]::-webkit-datetime-edit-day-field {
+    color: #000;
+}
+
+input[type=datetime-local]::-webkit-datetime-edit-year-field {
+    color: #000;
+}
+
+input[type=datetime-local]::-webkit-clear-button {
+    font-size: 18px;
+    height: 30px;
+    position: relative;
+    right: 5px;
+    margin-right: 4px;
+}
+
+input[type=datetime-local]::-webkit-inner-spin-button {
+    height: 30px;
+}
+
+input[type=datetime-local]::-webkit-calendar-picker-indicator {
+    font-size: 18px;
+}
+
+
+/* input[type=datetime-local]:hover {
+    background-color: #2f2f2f;
+    color: #232323;
+    cursor: pointer;
+} */
+/* 
+input[type=datetime-local]:active {
+    color: blue;
+} */

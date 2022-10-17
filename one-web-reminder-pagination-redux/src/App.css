@@ -1,0 +1,15 @@
+*{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+.main_section{
+  display: flex;
+}
+.left_sidebar{
+  width: 16%;
+}
+.right_section{
+  padding: 20px;
+}
+

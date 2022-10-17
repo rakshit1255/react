@@ -1,0 +1,13 @@
+.navbar{
+    background-color: #293462;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding: 22px 25px;
+}
+.logo{
+    height: 60px;
+}
+.btn button:hover{
+    background-color: #FE9883;
+}

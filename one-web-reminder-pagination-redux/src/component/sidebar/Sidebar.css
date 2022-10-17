@@ -1,0 +1,15 @@
+.sidebar{
+   background-color: #FA4F5C; 
+   height: 100vh;
+}
+.sidebar p{
+    color: #293462;
+    margin: 0;
+    padding: 16px;
+    font-size: 18px;
+    text-decoration: none;
+    font-weight: 500;
+}
+.sidebar p:hover{
+    color: #293462;
+}

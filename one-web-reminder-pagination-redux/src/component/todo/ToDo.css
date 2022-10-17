@@ -1,0 +1,26 @@
+
+.ToDo .ToDobtn{
+    background-color:#FA4F5C;
+    border: none;
+    color: white;
+    font-size:16px;
+    margin: 0 12px;
+    padding: 8px 10px;
+}
+.todos{
+    display: flex;
+    justify-content: space-between;
+    margin: 10px 0;
+    padding:10px 0;
+    border-bottom: 2px solid rgb(182, 182, 182);
+
+}
+.todos .buttonHome{
+    margin: 0 12px;
+    padding: 4px 10px;
+    letter-spacing:0;
+    background-color:#293462;
+}
+.todos .buttonHome:hover{
+    background-color:#FA4F5C;
+}
