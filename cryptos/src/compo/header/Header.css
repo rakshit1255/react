@@ -1,0 +1,31 @@
+.navbar{
+    width: 100%;
+    margin: 0;
+    padding: 0;
+    background-color: #041334;
+}
+.navbar-brand img{
+    width: 200px;
+}
+.navbar ul li a, .navbar span{
+    font-size: 20px;
+    color: #ffffff;
+}
+.navbar ul li a:hover, .navbar span:hover{
+    font-size: 20px;
+    color: #e58910;
+}
+.navbar-text{
+    display: flex;
+    align-items: center;
+}
+.navbar-text p{
+    margin: 0;
+    margin-left: 12px;
+}
+.navbar-text i{
+    font-size: 36px;
+}
+.nav-link:focus{
+    color: #01B3EB;
+}

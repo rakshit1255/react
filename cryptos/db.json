@@ -1,0 +1,49 @@
+{
+  "users": [
+    {
+      "email": "rakshit.vadaliya@archesoftronix.com",
+      "accountbalance": 400,
+      "bitcoinbalance": 65,
+      "password": "Admin",
+      "username": "Admin",
+      "number": "456546546",
+      "id": 1
+    },
+    {
+      "email": "test@.com",
+      "accountbalance": 0,
+      "bitcoinbalance": 0,
+      "password": "1234",
+      "username": "Hello",
+      "number": "343435",
+      "id": 2
+    },
+    {
+      "email": "cc@cc.com",
+      "accountbalance": 0,
+      "bitcoinbalance": 0,
+      "password": "1234",
+      "username": "test",
+      "number": "2123234",
+      "id": 3
+    },
+    {
+      "email": "strange@strange",
+      "accountbalance": 2500,
+      "bitcoinbalance": 20.25,
+      "password": "1234",
+      "username": "Dr.strange",
+      "number": "987654321",
+      "id": 4
+    },
+    {
+      "email": "shail@gmail.com",
+      "accountbalance": 200,
+      "bitcoinbalance": 10,
+      "password": "Admin",
+      "username": "shail",
+      "number": "91298201444",
+      "id": 5
+    }
+  ]
+}

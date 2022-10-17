@@ -1,0 +1,32 @@
+.sidebar{
+    width: 20%;
+}
+.profile-bord{
+    width: 80%;
+    background-color: #1A2C4D;
+    height: 100vh;
+}
+
+
+/* ************************************* DSHBORD ************************************ */
+
+.card{
+    background-color: #041334;
+    width: 22rem;
+}
+.dashbord-cards{
+    display: flex;
+}
+.accountbalance{
+    font-size: 26px;
+    font-weight: 600;
+}
+.bitcoin-icon{
+    color: #FF9E00;
+    font-size: 24px
+}
+.script-name{
+    color: #d3d4d6;
+    font-weight: bold;
+}
+

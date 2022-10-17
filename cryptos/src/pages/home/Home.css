@@ -1,0 +1,56 @@
+.home-main{
+    position: relative;
+    background: url('../../assat/body_bg.jpg');
+    background-size: 100% 100%;
+    background-position: center;
+    background-repeat: no-repeat;
+    color: white;
+}
+.hero-img img{
+    width: 100%;
+}
+.hero-content{
+    color: white;
+}
+.hero-content h2{
+    font-weight: bold;
+    font-size: 3rem;
+    margin-bottom: 20px;
+}
+
+/* ******************************************** */
+
+.boxes-content{
+    text-align: center;
+    color: black;
+    background-color: white;
+}
+.boxes-content h4{
+    font-weight: bold;
+}
+.about{
+    justify-content: center;
+    
+}
+.about-border{
+    border: #ddd dashed 1px;
+    padding: 50px;
+    margin-bottom: 50px;
+}
+.about .hero-content{
+    padding: 26px;
+}
+.about .hero-content p{
+    margin: 22px 0;
+}
+.about-btn{
+    background-color: transparent;
+    color: white;
+    border: 2px solid white;
+    padding: 10px 40px;
+    margin-top: 20px;
+}
+
+.footer{
+    background-color: #041334;
+}
